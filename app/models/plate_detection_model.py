@@ -1,16 +1,5 @@
-import matplotlib.pyplot as plt
 import torch
-import cv2
-import numpy as np
-import time
-from torchvision import transforms
-# from pathlib import Path
-from PIL import Image
-from IPython.display import display
 import yolov5
-import torchvision
-from IPython.display import clear_output, display, HTML
-import pytesseract
 
 from app.objects_controller import ObjectController
 from app.utils.coordinat_utils import letterbox, to_original_coordinates

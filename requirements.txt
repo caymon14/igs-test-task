@@ -1,4 +1,4 @@
-opencv-python==4.5.4.60
+opencv-python
 matplotlib==3.7.0
 craft-text-detector==0.4.3
 yolov5==7.0.9
