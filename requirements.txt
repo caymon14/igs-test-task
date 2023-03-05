@@ -1,0 +1,5 @@
+opencv-python==4.5.4.60
+matplotlib==3.7.0
+craft-text-detector==0.4.3
+yolov5==7.0.9
+pytesseract==0.3.10
